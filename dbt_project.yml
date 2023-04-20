@@ -25,3 +25,5 @@ vars:
   google_ads__campaign_stats_passthrough_metrics: []
   google_ads__keyword_stats_passthrough_metrics: []
   google_ads__account_stats_passthrough_metrics: []
+  google_ads_database: rightonbracket
+  google_ads_schema: google_ads_3mon 
